@@ -1,7 +1,7 @@
 ##  Invise AHK Productivity Scripts
 ###### Developed by [Mike Lierman](https://mikelierman.net/) and [Invise Solutions - IT and Computer Repair in Utah](https://invisesolutions.com). Invise Labs is a division of Invise Solutions.
 
-**This page and our webiste are being re-written, so bear with us.**
+**This page and our website are being re-written, so bear with us.**
 
 This collection of AHK scripts is designed to enhance productivity and efficiency on any workstation. 
 Developed by the team at Invise Solutions, these scripts are a staple in our internal operations and are now being offered to clients who want the same productivity enhancements.
